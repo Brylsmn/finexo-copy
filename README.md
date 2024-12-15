@@ -1,2 +1,9 @@
 # Website Template
-This is a website template that our group used to monitor and analyze as part of our professional elective final project. Although slight changes were made, this is all for shool purposes only and we do not own the rights to this template. All copyrights remain with the original creators.
+This repository contains a website template that our group analyzed and modified as part of our Professional Elective final project.
+
+Please note the following:
+
+- Purpose: The modifications and usage of this template were solely for educational purposes.
+- Ownership: We do not claim ownership of this template. All copyrights and intellectual property rights remain with the original creators.
+- Changes: Minor modifications were made to suit project requirements, but the core template remains unchanged.
+
